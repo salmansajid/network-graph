@@ -1,0 +1,45 @@
+
+.links {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.node text {
+  pointer-events: none;
+  font: 10px monospace;;
+}
+
+.reacttext{
+stroke-width:5;
+opacity:0.5;
+font: 10px monospace;
+}
+
+.node-labels{
+  font-size: 10px;
+  color: #6b3930;
+  font-weight: 400;
+  bottom: 0;
+  position: absolute;
+  float: right;
+  right: 0;
+}
+
+.mt{
+ margin-top:2em;
+}
+
+.label{
+  color: #6b3930;
+}
+
+// .links line {
+//   stroke: #999;
+//   stroke-opacity: 0.6;
+// }
+
+// .nodes circle {
+//   stroke: #fff;
+//   stroke-width: 1.5px;
+//   cursor: pointer;
+// }

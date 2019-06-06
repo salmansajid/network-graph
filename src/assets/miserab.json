@@ -1,0 +1,38 @@
+{
+    "nodes": [
+        {
+            "id": "WAK LIMITED WAK LIMITED 135 E/1 STADIUM ROAD GULBERG III LAHORE",
+            "community": 0,
+            "group": 0,
+            "tooltip": {
+                "Title": "WAK LIMITED WAK LIMITED 135 E/1 STADIUM ROAD GULBERG III LAHORE",
+                "Frequency": 2,
+                "Linkage": 0,
+                "Deviation": 5994437.315,
+                "Average": 5811025.275,
+                "Amount": 11622050.55
+            }
+        },
+        {
+            "id": "SAMSUNG GULF ELECTRONICS FZE POBOX 61247 JEBEL ALI FREE ZONE ",
+            "community": 0,
+            "group": 0,
+            "tooltip": {
+                "Title": "SAMSUNG GULF ELECTRONICS FZE POBOX 61247 JEBEL ALI FREE ZONE ",
+                "Frequency": 5,
+                "Linkage": 0,
+                "Deviation": 5994437.315,
+                "Average": 5811025.275,
+                "Amount": 11622050.55
+            }
+        }
+    ],
+    "links": [
+        {
+            "source": "WAK LIMITED WAK LIMITED 135 E/1 STADIUM ROAD GULBERG III LAHORE",
+            "target": "SAMSUNG GULF ELECTRONICS FZE POBOX 61247 JEBEL ALI FREE ZONE ",
+            "label": 11622050.55,
+            "community": 0
+        }
+    ]
+}

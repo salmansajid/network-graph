@@ -1,0 +1,17 @@
+<div class="container-fluid">
+    <div class="row mt">
+        <div class="col-sm-2 pull-right">
+            <div class="form-group">
+                <label class="label">Select Comunity</label>
+                <select [(ngModel)]="selectedValue" class="form-control" (change)="onChange($event.target.value)">
+                    <option *ngFor="let c of comunity" value="{{c}}">{{c}}</option>
+                </select>
+            </div>
+        </div>
+        <div class="col-sm-8">
+          
+        </div>
+    </div>
+    <svg width="1500" height="700"></svg>
+    
+</div>
